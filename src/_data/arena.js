@@ -1,5 +1,5 @@
 // The Arena channel ID
-const arenaChannelId = 479545;
+const arenaChannelId = 5735019;
 
 // Required package
 const Arena = require("are.na");
